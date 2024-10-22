@@ -1,27 +1,27 @@
 ### 1. **Project Overview**
-   **Title:** Vrinda Store Annual Sales Report 2022 – Insights for Growth in 2023  
+   **Title:** Vrinda Store Annual Sales Report 2022 – Analyzing Sales to Drive Growth  
    **Description:**  
-   This project analyzes Vrinda Store's sales data from 2022 to provide actionable insights that will help drive sales growth in 2023. Key areas of analysis include sales and order trends, customer demographics, and performance across different channels and regions. The report offers a comprehensive understanding of Vrinda’s sales performance and customer behavior to inform strategic decisions for the upcoming year.
+   This Excel-based project focuses on analyzing Vrinda Store's sales for 2022 to help the company better understand its customer base and identify opportunities for growth in 2023. The report explores key factors like sales trends, order statuses, customer demographics, and sales channels. Insights from the analysis will guide Vrinda in developing targeted strategies to increase sales and customer retention.
 
 ### 2. **Tech Stack**
-   - **Power BI / Excel** for data analysis and visualization.
-   - **Excel Functions:** SUMIF, COUNTIF, and other calculations for in-depth data analysis.
-   - **DAX (Data Analysis Expressions):** Used for calculations in Power BI.
-   - **Power Query** for data cleaning and preparation.
+   - **Microsoft Excel** for data analysis, visualization, and reporting.
+   - **Pivot Tables and Pivot Charts** for summarizing sales data.
+   - **Excel Formulas:** SUM, COUNTIF, VLOOKUP, and other functions to calculate metrics like total sales, orders, and customer behavior.
+   - **Conditional Formatting** to highlight trends and outliers in the data.
 
-### 3. **Techniques Learned**
-   - **Data Import and Cleaning:** Cleaned and prepared sales data using Power Query and Excel.
-   - **Visualization of Sales Trends:** Created charts to compare sales and orders over time.
-   - **Customer Demographics Analysis:** Analyzed sales by gender and age groups.
-   - **Top Performing States & Categories:** Identified top contributing states and product categories.
-   - **Channel Analysis:** Examined sales contributions from different sales channels.
+### 3. **Excel Techniques Learned**
+   - **Pivot Tables:** Used to analyze sales by month, gender, state, and sales channels.
+   - **Data Visualization:** Created combined sales and orders charts to show performance trends.
+   - **Conditional Formatting:** Applied to identify the top-selling products, highest-contributing states, and other key metrics.
+   - **Advanced Functions:** Utilized SUMIF, COUNTIF, and VLOOKUP to calculate various sales metrics and organize data for reporting.
+   - **Data Cleaning:** Organized and validated data to ensure accuracy before analysis.
 
 ### 4. **Questions to Solve**
-   - **Sales vs. Orders Comparison:** Which months had the highest sales and orders in 2022, and how do they compare throughout the year?
-   - **Top Sales Month:** Which month saw the highest sales and number of orders, and what might have driven this performance?
-   - **Gender-Based Sales:** Who purchased more – men or women – and what does this reveal about Vrinda's customer base?
-   - **Order Status:** What were the different order statuses in 2022, and how did they impact delivery and customer satisfaction?
-   - **Top Performing States:** Which 10 states contributed the most to Vrinda’s sales?
-   - **Age and Gender Relationship:** What is the relationship between age and gender in terms of the number of sales?
-   - **Sales Channels Performance:** Which sales channel contributed the most to total sales, and how can it be optimized further?
-   - **Top Selling Category:** Which product category had the highest sales, and how can Vrinda capitalize on this in 2023?
+   - **Sales and Orders Comparison:** How do sales and order quantities compare throughout 2022? Which months saw the highest activity?
+   - **Top Month for Sales and Orders:** Which month had the highest sales volume and number of orders?
+   - **Purchases by Gender:** Did men or women purchase more in 2022? How does gender influence purchasing behavior?
+   - **Order Status Distribution:** What were the different order statuses in 2022, and how do they impact sales fulfillment?
+   - **Top-Contributing States:** Which 10 states contributed the most to total sales in 2022?
+   - **Age and Gender Correlation:** What is the relationship between age and gender in terms of purchasing behavior and sales volume?
+   - **Sales Channels:** Which sales channel (online, in-store, etc.) contributed the most to overall sales in 2022?
+   - **Highest-Selling Categories:** Which product categories drove the most sales, and how can Vrinda leverage this for future growth?
