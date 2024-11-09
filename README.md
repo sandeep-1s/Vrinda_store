@@ -25,6 +25,8 @@
    - **Age and Gender Correlation:** What is the relationship between age and gender in terms of purchasing behavior and sales volume?
    - **Sales Channels:** Which sales channel (online, in-store, etc.) contributed the most to overall sales in 2022?
    - **Highest-Selling Categories:** Which product categories drove the most sales, and how can Vrinda leverage this for future growth?
+
+### 5. **Some Screenshot**
 ![Screenshot 2024-10-22 152318](https://github.com/user-attachments/assets/0841e3fc-e756-4049-bb7e-616a71bac5e9)
 ![Screenshot 2024-10-22 152303](https://github.com/user-attachments/assets/26e9e0dc-b916-4480-b9eb-ba13c50e0e7f)
 ![Screenshot 2024-10-22 152234](https://github.com/user-attachments/assets/a520b2ae-ca1b-4d0d-9fd0-489bee56b8d6)
